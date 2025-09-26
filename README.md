@@ -1,7 +1,6 @@
-# My Flask Application (Dockerized)
+# Flask Web Application (Dockerized)
 
-This project contains a simple Flask web application that has been containerized using Docker.  
-The application is served using **Gunicorn** inside the container.
+A simple Flask web app containerized with Docker and served using Gunicorn. Built as a starter project to practice deployment basics.
 
 ---
 
